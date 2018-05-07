@@ -1,0 +1,1 @@
+ADD_LIBRARY(Patcher STATIC Patcher.cpp Patcher.h)
