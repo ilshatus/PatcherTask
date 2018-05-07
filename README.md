@@ -1,5 +1,6 @@
 # PatcherTask
 1. Сборка
+
   CMake сборщик проекта
 	
   Сама программа Main main.cpp
